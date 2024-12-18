@@ -1,4 +1,4 @@
 ---
 title: Welcome to my blog
 ---
-theme: minima
+hello ,my git hub pages
